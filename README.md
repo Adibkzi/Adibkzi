@@ -8,11 +8,12 @@
 <a href="https://www.linkedin.com/in/adibkazi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adibkzi" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Profile Summary:</h3>
-A recent graduate student from University of North Texas majoring in Information Science with a minor in Data Science. I am well versed in Python, SQL, and BI tools to turn the business' ideas into a reality with my exceptional communication, presentation, and analytical skills.
-</p>
-
-
+<!---------------------------------------------------------- About Me---------------------------------------------------->
+<div align="center">
+    <h2>About Me</h2>
+    <p>I am Adib Kazi,a recent graduate student from UNT majoring in Data Science.</p>
+    <p>Besides programming, I like food, traveling and talking with folks in the Data Analytics community.</p>
+</div>
 
 <h3 align="left">Data Science Projects:</h3>
 <h3 align="left"> Python projects :chart_with_upwards_trend: </h3>
