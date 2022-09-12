@@ -9,10 +9,7 @@
 </p>
 
 <h3 align="left">Profile Summary:</h3>
-Data Science graduate student at University of North Texas graduating in Dec 2022. 
-Seeking  Data Analytics / Business Intelligence position focused on creating and developing data analysis models for business communications.
-Expertise in data modeling, data analytics, data visualization and machine learning. 
-
+A recent graduate student from University of North Texas majoring in Information Science with a minor in Data Science. I am well versed in Python, SQL, and BI tools to turn the business' ideas into a reality with my exceptional communication, presentation, and analytical skills.
 </p>
 
 
