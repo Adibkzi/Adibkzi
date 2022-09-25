@@ -24,6 +24,7 @@
 <h3 align="left"> SQL projects :computer: </h3>
 <a href="https://github.com/Adibkzi/PlanoHomeDB" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
 <a href="https://github.com/Adibkzi/SQLPortfolio/blob/main/Data_Exploration.sql" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+<a href="https://github.com/Adibkzi/Northwind-Company" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
 
 <h3 align="left"> Power BI projects :bar_chart: </h3>
 <a href="https://github.com/Adibkzi/POWERBI_PORTFOLIO/blob/main/Kevin%20Cookie%20Dataset.pbix" target="_blank" rel="noreferrer"> <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" alt="PowerBI" width="40" height="40"/>
