@@ -11,7 +11,7 @@
 <!---------------------------------------------------------- About Me ---------------------------------------------------->
 <div align="left">
     <h2>About Me</h2>
- <p>A recent graduate student from University of North Texas majoring in Information Science with a minor in Data Science. I am well versed in Python, SQL, and BI tools to turn the business' ideas into a reality with my exceptional communication, presentation, and analytical skills. Besides programming, I like food, traveling and talking with folks in the Data Analytics community.</p>
+ <p>Ambitious Data Science graduate focused on creating and developing data analysis models for business communications. I am well versed in Python, SQL, Power BI, and MS Excel to turn the business’ ideas into a reality and have experience in implementing BI tools to better manage and utilize data.</p>
 
 </div>
 
