@@ -32,4 +32,7 @@
                                                                                                                             
  <h3 align="left"> Excel Projects ⛏️</h3>
 <a href="https://github.com/Adibkzi/Excel_DS" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" width="40" height="40"/>
-                                                                                                                            
+
+ <h3 align="left"> Tableau Projects ⛏️</h3>
+<a href="https://public.tableau.com/app/profile/adib.kazi/viz/StudentsResults_16649904537820/Dashboard1" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="Excel" width="40" height="40"/>
+<a href="https://public.tableau.com/app/profile/adib.kazi/viz/ProductLinePerformance_16649903212360/ProductLinePerformance" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="Excel" width="40" height="40"/>                                                                                                                       
