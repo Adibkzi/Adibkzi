@@ -1,4 +1,4 @@
-<h1 align="center">Data Science Portfolio </h1>
+<h1 align="center">Data Analytics Portfolio </h1>
 <h3 align="center">Data Analyst :bar_chart: Foodie :curry: Travel :airplane: </h3>
 
 
@@ -11,7 +11,7 @@
 <!---------------------------------------------------------- About Me ---------------------------------------------------->
 <div align="left">
     <h2>About Me</h2>
- <p>Ambitious Data Science graduate focused on creating and developing data analysis models for business communications. I am well versed in Python, SQL, Power BI, and MS Excel to turn the business’ ideas into a reality and have experience in implementing BI tools to better manage and utilize data.</p>
+ <p>As a seasoned data analyst, I excel in data visualization, leveraging my extensive proficiency in SQL and Power BI. My talent for decoding complex data sets and transforming them into visually engaging representations has proven invaluable in providing actionable insights for my clients. I am a collaborative team player with exceptional communication and problem-solving skills, enabling me to work seamlessly with colleagues and stakeholders alike. With a keen eye for detail and a deep passion for data analysis, I am dedicated to delivering exceptional quality work that exceeds expectations. .</p>
 
 </div>
 
@@ -29,6 +29,7 @@
 <h3 align="left"> Power BI projects :bar_chart: </h3>
 <a href="https://github.com/Adibkzi/POWERBI_PORTFOLIO/blob/main/Kevin%20Cookie%20Dataset.pbix" target="_blank" rel="noreferrer"> <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" alt="PowerBI" width="40" height="40"/>
 <a href="https://github.com/Adibkzi/POWERBI_PORTFOLIO/blob/main/Data%20Science%20Survery%20Dashboard.pbix" target="_blank" rel="noreferrer"> <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" alt="PowerBI" width="40" height="40"/>
+<a href="https://github.com/Adibkzi/POWERBI_PORTFOLIO/blob/main/AirSafety%20PowerBI%20Dashboard.pbix"> <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" alt="PowerBI" width="40" height="40"/>
                                                                                                                             
  <h3 align="left"> Excel Projects ⛏️</h3>
 <a href="https://github.com/Adibkzi/Excel_DS" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" width="40" height="40"/>
