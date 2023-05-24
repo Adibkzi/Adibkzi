@@ -11,7 +11,7 @@
 <!---------------------------------------------------------- About Me ---------------------------------------------------->
 <div align="left">
     <h2>About Me</h2>
- <p>As a seasoned data analyst, I excel in data visualization, leveraging my extensive proficiency in SQL and Power BI. My talent for decoding complex data sets and transforming them into visually engaging representations has proven invaluable in providing actionable insights for my clients. I am a collaborative team player with exceptional communication and problem-solving skills, enabling me to work seamlessly with colleagues and stakeholders alike. With a keen eye for detail and a deep passion for data analysis, I am dedicated to delivering exceptional quality work that exceeds expectations. .</p>
+ <p>As a seasoned data analyst,I excel in data visualization,leveraging my extensive proficiency in SQL, Excel, and Power BI & Tableau. My talent for decoding complex data sets and transforming them into visually engaging representations has proven invaluable in providing actionable insights for my clients. I am a collaborative team player with exceptional communication and problem-solving skills, enabling me to work seamlessly with colleagues and stakeholders alike. With a keen eye for detail and a deep passion for data analysis, I am dedicated to delivering exceptional quality work that exceeds expectations. .</p>
 
 </div>
 
