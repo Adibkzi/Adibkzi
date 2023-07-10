@@ -17,10 +17,7 @@
 
 
 <!---------------------------------------------------------- Data Science Projects ---------------------------------------------------->
-<h3 align="left"> Python projects :chart_with_upwards_trend: </h3>
-<a href="https://github.com/Adibkzi/Python-Projects" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
-  
 <h3 align="left"> SQL projects :computer: </h3>
 <a href="https://github.com/Adibkzi/PlanoHomeDB" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
 <a href="https://github.com/Adibkzi/SQLPortfolio/blob/main/Data_Exploration.sql" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
