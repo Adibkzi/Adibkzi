@@ -10,27 +10,54 @@
 
 <!---------------------------------------------------------- About Me ---------------------------------------------------->
 <div align="left">
-    <h2>About Me</h2>
- <p>As a seasoned data analyst,I excel in data visualization,leveraging my extensive proficiency in SQL, Excel, and Power BI & Tableau. My talent for decoding complex data sets and transforming them into visually engaging representations has proven invaluable in providing actionable insights for my clients. I am a collaborative team player with exceptional communication and problem-solving skills, enabling me to work seamlessly with colleagues and stakeholders alike. With a keen eye for detail and a deep passion for data analysis, I am dedicated to delivering exceptional quality work that exceeds expectations. .</p>
+    <h2>About Me  :smiley: </h2>
+ <p> As a data analyst, I possess formidable analytical and problem-solving abilities, enabling me to gather, arrange, and examine extensive datasets effectively.
+
+I have mastered a diverse range of data analysis tools and techniques, allowing me to adeptly communicate my findings through well-structured and visually engaging reports.
+
+ Precision and attention to detail are second nature to me, making me equally adept at working independently or collaboratively within a team setting.
+
+Throughout my professional journey, I have achieved success in executing projects that encompass the collection and analysis of data from diverse sources. 
+
+By providing valuable insights, my contributions have played a pivotal role in driving informed decision-making and enhancing overall business outcomes.
+
+I am continuously seeking to learn and stay up-to-date with the latest data analysis technologies and methodologies.
+
+o Microsoft Certified: Azure Data Scientist Associate (In - Progress)
+
+Tech Stack: 
+o SQL
+o Tableau
+o Power BI
+o Microsoft Excel
+o Python .</p>
 
 </div>
 
 
 <!---------------------------------------------------------- Data Science Projects ---------------------------------------------------->
 
-<h3 align="left"> SQL projects :computer: </h3>
-<a href="https://github.com/Adibkzi/PlanoHomeDB" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+<h3 align="left"> SQL Projects :computer: </h3>
+<a href="https://github.com/Adibkzi/SQLPortfolio/blob/main/AdventureWorkBook%20Exploratory%20Analysis.sql" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
 <a href="https://github.com/Adibkzi/SQLPortfolio/blob/main/Data_Exploration.sql" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-<a href="https://github.com/Adibkzi/Northwind-Company" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+<a href="https://github.com/Adibkzi/SQLPortfolio/blob/main/SQL%20Questions.sql" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+<a href="https://github.com/Adibkzi/PlanoHomeDB/blob/main/Create_Tables_PlanoHomesDB.sql" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+<a href="https://github.com/Adibkzi/PlanoHomeDB/blob/main/DataExploration_PlanoHomesDB.sql" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
 
-<h3 align="left"> Power BI projects :bar_chart: </h3>
-<a href="https://github.com/Adibkzi/POWERBI_PORTFOLIO/blob/main/Kevin%20Cookie%20Dataset.pbix" target="_blank" rel="noreferrer"> <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" alt="PowerBI" width="40" height="40"/>
-<a href="https://github.com/Adibkzi/POWERBI_PORTFOLIO/blob/main/Data%20Science%20Survery%20Dashboard.pbix" target="_blank" rel="noreferrer"> <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" alt="PowerBI" width="40" height="40"/>
-<a href="https://github.com/Adibkzi/POWERBI_PORTFOLIO/blob/main/AirSafety%20PowerBI%20Dashboard.pbix"> <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" alt="PowerBI" width="40" height="40"/>
+<h3 align="left"> Python Data Science Projects  :key: </h3>
+<a href="https://github.com/Adibkzi/Data-Science-Projects/blob/main/Music%20Analysis%20.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.pngitem.com/pimgs/m/84-847371_python-data-science-logo-hd-png-download.png" alt="Python" width="40" height="40"/>
+<a href="https://github.com/Adibkzi/Data-Science-Projects/blob/main/Predict%20NBA%20Games%20Analysis.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.pngitem.com/pimgs/m/84-847371_python-data-science-logo-hd-png-download.png" alt="Python" width="40" height="40"/>
+<a href="https://github.com/Adibkzi/California-House-Analysis" target="_blank" rel="noreferrer"> <img src="https://www.pngitem.com/pimgs/m/84-847371_python-data-science-logo-hd-png-download.png" alt="Python" width="40" height="40"/>
+
+    
+<h3 align="left"> Power BI Projects :chart_with_upwards_trend: </h3>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiODBiMjk2YTAtYjBjOC00ZWJjLWEyMTUtNjY3YTE4YjdkOGIxIiwidCI6IjcwZGUxOTkyLTA3YzYtNDgwZi1hMzE4LWExYWZjYmEwMzk4MyIsImMiOjN9" target="_blank" rel="noreferrer"> <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" alt="PowerBI" width="40" height="40"/>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMTE4MTAzY2EtZTBkMS00NDdiLTkzNjItOTQ1ZDJlNWE0ODE4IiwidCI6IjcwZGUxOTkyLTA3YzYtNDgwZi1hMzE4LWExYWZjYmEwMzk4MyIsImMiOjN9" target="_blank" rel="noreferrer"> <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" alt="PowerBI" width="40" height="40"/>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMWY5ZTQ5MjItYThiYS00NmZhLTk4ZjQtNWNmYTNhNzg1ODE5IiwidCI6IjcwZGUxOTkyLTA3YzYtNDgwZi1hMzE4LWExYWZjYmEwMzk4MyIsImMiOjN9"> <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" alt="PowerBI" width="40" height="40"/>
                                                                                                                             
  <h3 align="left"> Excel Projects ⛏️</h3>
 <a href="https://github.com/Adibkzi/Excel_DS" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" width="40" height="40"/>
 
- <h3 align="left"> Tableau Projects ⛏️</h3>
+ <h3 align="left"> Tableau Projects :bar_chart:</h3>
 <a href="https://public.tableau.com/app/profile/adib.kazi/viz/StudentsResults_16649904537820/Dashboard1" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="Excel" width="40" height="40"/>
 
