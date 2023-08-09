@@ -23,14 +23,12 @@ By providing valuable insights, my contributions have played a pivotal role in d
 
 I am continuously seeking to learn and stay up-to-date with the latest data analysis technologies and methodologies.
 
-o Microsoft Certified: Azure Data Scientist Associate (In - Progress)
-
-Tech Stack: 
-o SQL
-o Tableau
-o Power BI
-o Microsoft Excel
-o Python .</p>
+**Tech Stack:**
+1. SQL
+1. Tableau
+1. Power BI
+1. Microsoft Excel
+1. Python </p>
 
 </div>
 
