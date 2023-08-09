@@ -3,7 +3,8 @@
 
 
 
-<h3 align="left">Connect:</h3>
+<div align="left">
+    <h2> Connect:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/adibkazi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adibkzi" height="30" width="40" /></a>
 </p>
@@ -25,10 +26,10 @@ I am continuously seeking to learn and stay up-to-date with the latest data anal
 
 **Tech Stack:**
 1. SQL
-1. Tableau
-1. Power BI
-1. Microsoft Excel
-1. Python </p>
+1. Python
+1. Power BI 
+1. Excel
+</p>
 
 </div>
 
@@ -56,6 +57,4 @@ I am continuously seeking to learn and stay up-to-date with the latest data anal
  <h3 align="left"> Excel Projects ⛏️</h3>
 <a href="https://github.com/Adibkzi/Excel_DS" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" width="40" height="40"/>
 
- <h3 align="left"> Tableau Projects :bar_chart:</h3>
-<a href="https://public.tableau.com/app/profile/adib.kazi/viz/StudentsResults_16649904537820/Dashboard1" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="Excel" width="40" height="40"/>
 
