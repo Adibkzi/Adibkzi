@@ -1,38 +1,20 @@
-<h1 align="center">Data Analytics Portfolio </h1>
-<h3 align="center">Data Analyst :bar_chart: Foodie :curry: Travel :airplane: </h3>
+# 👋 Hi, I’m Adib!
 
+📊 I am currently Senior Data Analyst in the Dallas, TX area, performing analyses for cases in the travel & toursim, business operations, and human resources domain.
+<p>&nbsp;</p> 
 
+**👀 Favorite Hobbies**
+ 
+⚽️ **Soccer**: I  enjoy playing soccer  during my freetime\
+👨‍🏫 **Mentorship**: I love to mentor students and see that they achieve their goasl related to data analytics & data science topics \
+🌄 **Creating Memories**: Embrace the beauty of nature's canvas in your travels.
+  <p>&nbsp;</p>
 
-<div align="left">
-    <h2> Connect:</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/adibkazi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adibkzi" height="30" width="40" /></a>
-</p>
-
-<!---------------------------------------------------------- About Me ---------------------------------------------------->
-<div align="left">
-    <h2>About Me  :smiley: </h2>
- <p> As a data analyst, I possess formidable analytical and problem-solving abilities, enabling me to gather, arrange, and examine extensive datasets effectively.
-
-I have mastered a diverse range of data analysis tools and techniques, allowing me to adeptly communicate my findings through well-structured and visually engaging reports.
-
- Precision and attention to detail are second nature to me, making me equally adept at working independently or collaboratively within a team setting.
-
-Throughout my professional journey, I have achieved success in executing projects that encompass the collection and analysis of data from diverse sources. 
-
-By providing valuable insights, my contributions have played a pivotal role in driving informed decision-making and enhancing overall business outcomes.
-
-I am continuously seeking to learn and stay up-to-date with the latest data analysis technologies and methodologies.
-
-**Tech Stack:**
+  **Tech Stack:**
 1. SQL
 1. Python
 1. Power BI 
 1. Excel
-</p>
-
-</div>
-
 
 <!---------------------------------------------------------- Data Science Projects ---------------------------------------------------->
 
@@ -56,5 +38,18 @@ I am continuously seeking to learn and stay up-to-date with the latest data anal
                                                                                                                             
  <h3 align="left"> Excel Projects ⛏️</h3>
 <a href="https://github.com/Adibkzi/Excel_DS" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" width="40" height="40"/>
+
+
+
+**🌱 I’m currently learning**
+
+🔧 Azure Data Scientist Associate: In - Progress 
+<p>&nbsp;</p>  
+
+**📫 How to reach me**
+
+⛓ https://www.linkedin.com/in/adibkazi/
+
+
 
 
