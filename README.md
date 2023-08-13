@@ -3,20 +3,20 @@
 📊 I am currently Senior Data Analyst in the Dallas, TX area, performing analyses for cases in the travel & toursim, business operations, and human resources domain.
 <p>&nbsp;</p> 
 
-**👀 Favorite Hobbies**
+# 👀 Favorite Hobbies
  
 ⚽️ **Soccer**: I  enjoy playing soccer  during my freetime\
-👨‍🏫 **Mentorship**: I love to mentor students and see that they achieve their goasl related to data analytics & data science topics \
-🌄 **Creating Memories**: Embrace the beauty of nature's canvas in your travels.
+👨‍🏫 **Mentorship**: I love to mentor students and see that they achieve their goals related to data analytics & data science topics \
+🌄 **Creating Memories**: Embrace the beauty of nature's canvas in your travels
   <p>&nbsp;</p>
 
-  **Tech Stack:**
+# 🛠️ Tech Stack
 1. SQL
 1. Python
 1. Power BI 
 1. Excel
 
-<!---------------------------------------------------------- Data Science Projects ---------------------------------------------------->
+# 📊 Data Science Projects 
 
 <h3 align="left"> SQL Projects :computer: </h3>
 <a href="https://github.com/Adibkzi/SQLPortfolio/blob/main/AdventureWorkBook%20Exploratory%20Analysis.sql" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
@@ -41,12 +41,12 @@
 
 
 
-**🌱 I’m currently learning**
+# **🌱 I’m currently learning**
 
 🔧 Azure Data Scientist Associate: In - Progress 
-<p>&nbsp;</p>  
+  
 
-**📫 How to reach me**
+# **📫 How to reach me**
 
 ⛓ https://www.linkedin.com/in/adibkazi/
 
