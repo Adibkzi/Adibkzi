@@ -26,8 +26,8 @@
 <a href="https://github.com/Adibkzi/PlanoHomeDB/blob/main/DataExploration_PlanoHomesDB.sql" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
 
 <h3 align="left"> Python Data Science Projects  :key: </h3>
-<a href="https://github.com/Adibkzi/Data-Science-Projects/blob/main/Music%20Analysis%20.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.pngitem.com/pimgs/m/84-847371_python-data-science-logo-hd-png-download.png" alt="Python" width="40" height="40"/>
-<a href="https://github.com/Adibkzi/Data-Science-Projects/blob/main/Predict%20NBA%20Games%20Analysis.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.pngitem.com/pimgs/m/84-847371_python-data-science-logo-hd-png-download.png" alt="Python" width="40" height="40"/>
+<a href="https://github.com/Adibkzi/DS_Projects/blob/main/Music%20Analysis%20.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.pngitem.com/pimgs/m/84-847371_python-data-science-logo-hd-png-download.png" alt="Python" width="40" height="40"/>
+<a href="https://github.com/Adibkzi/DS_Projects/blob/main/Predict%20NBA%20Games%20Analysis.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.pngitem.com/pimgs/m/84-847371_python-data-science-logo-hd-png-download.png" alt="Python" width="40" height="40"/>
 <a href="https://github.com/Adibkzi/California-House-Analysis" target="_blank" rel="noreferrer"> <img src="https://www.pngitem.com/pimgs/m/84-847371_python-data-science-logo-hd-png-download.png" alt="Python" width="40" height="40"/>
 
     
