@@ -24,7 +24,8 @@
 <a href="https://github.com/Adibkzi/SQLPortfolio/blob/main/SQL%20Questions.sql" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
 <a href="https://github.com/Adibkzi/PlanoHomeDB/blob/main/Create_Tables_PlanoHomesDB.sql" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
 <a href="https://github.com/Adibkzi/PlanoHomeDB/blob/main/DataExploration_PlanoHomesDB.sql" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-
+<a href="https://github.com/Adibkzi/SQLPortfolio/blob/main/Create_Table_Insert_Values.sql" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+ <a href="https://github.com/Adibkzi/SQLPortfolio/blob/main/Data_Analysis_DFW_Airport_Operation_Planning.sql" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
 <h3 align="left"> Python Data Science Projects  :key: </h3>
 <a href="https://github.com/Adibkzi/DS_Projects/blob/main/Music%20Analysis%20.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.pngitem.com/pimgs/m/84-847371_python-data-science-logo-hd-png-download.png" alt="Python" width="40" height="40"/>
 <a href="https://github.com/Adibkzi/DS_Projects/blob/main/Predict%20NBA%20Games%20Analysis.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.pngitem.com/pimgs/m/84-847371_python-data-science-logo-hd-png-download.png" alt="Python" width="40" height="40"/>
@@ -39,12 +40,6 @@
  <h3 align="left"> Excel Projects ⛏️</h3>
 <a href="https://github.com/Adibkzi/Excel_DS" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" width="40" height="40"/>
 
-
-
-# **🌱 I’m currently learning**
-
-🔧 Azure Data Scientist Associate: In - Progress 
-  
 
 # **📫 How to reach me**
 
