@@ -1,14 +1,13 @@
 # 👋 Hi, I’m Adib!
 
 📊 I am currently Senior Data Analyst in the Dallas, TX area, performing analyses for cases in the travel & toursim, business operations, and human resources domain.
-<p>&nbsp;</p> 
 
 # 👀 Favorite Hobbies
  
 ⚽️ **Soccer**: I  enjoy playing soccer  during my freetime\
 👨‍🏫 **Mentorship**: I love to mentor students and see that they achieve their goals related to data analytics & data science topics \
 🌄 **Creating Memories**: Embrace the beauty of nature's canvas in your travels
-  <p>&nbsp;</p>
+
 
 # 🛠️ Tech Stack
 1. SQL
