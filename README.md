@@ -14,6 +14,7 @@
 1. Python
 1. Power BI 
 1. Excel
+1. Denodo
 
 # 📊 Data Science Projects 
 
