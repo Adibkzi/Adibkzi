@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Adib!
 
-📊 I am currently Senior Data Analyst in the Dallas, TX area, performing analyses for cases in the travel & toursim, business operations, and human resources domain.
+📊 I am currently  Data Analyst in the Dallas, TX area, performing analyses for cases in the travel & toursim, business operations, and human resources domain.
 
 # 👀 Favorite Hobbies
  
