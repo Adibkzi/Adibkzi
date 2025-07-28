@@ -21,8 +21,8 @@
 ### 🗄️ SQL Projects
 | 🔢 Project | 💼 Domain | 🎯 Focus Area | 🔗 SQL Link |
 |-----------|-----------|---------------------------|--------|
-| **#1. Adventure Workbook EDA** | Sales & Customer Analytics | Sales trends, top products, customer spend, processing time, sales rep performance |  [View SQL Script](https://github.com/Adibkzi/SQLPortfolio/blob/main/AdventureWorkBook%20Exploratory%20Analysis.sql) |
-| **#4. DFW Airport Operation Planning** | Airlines | Flight trends, monthly traffic, delayed flights, ancillary revenue, top passengers| [View SQL Script](https://github.com/Adibkzi/SQLPortfolio/blob/main/Data_Analysis_DFW_Airport_Operation_Planning.sql) |
+| **Adventure Workbook EDA** | Sales & Customer Analytics | Sales trends, top products, customer spend, processing time, sales rep performance |  [View SQL Script](https://github.com/Adibkzi/SQLPortfolio/blob/main/AdventureWorkBook%20Exploratory%20Analysis.sql) |
+| **DFW Airport Operation Planning** | Airlines | Flight trends, monthly traffic, delayed flights, ancillary revenue, top passengers| [View SQL Script](https://github.com/Adibkzi/SQLPortfolio/blob/main/Data_Analysis_DFW_Airport_Operation_Planning.sql) |
 
 
 ---
@@ -31,9 +31,8 @@
 
 | 📊 Project | 💡 Domain | 📘 Topics | 🔗 Repo |
 |-----------|-----------|----------|--------|
-| **#1. College Grad Job  Analysis** | Education | Data Cleaning, Supervised ML, Clustering | [Repo](https://github.com/Adibkzi/College-Grad-Job-Outcomes-2025/tree/main) |
-| **#2. [Airport Network Optimization]** | Airlines | Time Series, Forecasting, Clustering | [Repo](INSERT_LINK) |
-| **#3. [FIFA 2026 Player Clustering]** | Sports | Feature Engineering, PCA, Unsupervised ML | [Repo](INSERT_LINK) |
+| **Airport Network Optimization** | Airlines | Time Series, Forecasting, Clustering | [Repo](INSERT_LINK) |
+| **FIFA 2026 Player Clustering** | Sports | Feature Engineering, PCA, Unsupervised ML | [Repo](INSERT_LINK) |
 
 ---
 
@@ -69,7 +68,6 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adibkzi&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adibkzi&layout=compact&theme=tokyonight" />
 </p>
 
@@ -78,8 +76,7 @@
 ## 📬 Let’s Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/adibkzi)
-- 📫 Email: `adib.kazi@example.com` (replace with your real one)
-- 📘 Blog / Notion: Coming Soon!
+
 
 ---
 
