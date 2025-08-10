@@ -5,7 +5,6 @@
 
 🔭 I’m on a journey to become a **Data Scientist** who solves real-world problems through data.
 - Building a full-stack portfolio with **SQL**, **Python**, and **Power BI**
-- Developing projects across **Healthcare**, **Airlines**, and **Sports Analytics**
 - Preparing for my **MS in Data Science** with practical, impactful skills
 
 🌱 I’m continuously learning:
@@ -31,8 +30,8 @@
 
 | 📊 Project | 💡 Domain | 📘 Topics | 🔗 Repo |
 |-----------|-----------|----------|--------|
-| **Airport Network Optimization** | Airlines | Time Series, Forecasting, Clustering | [Repo](INSERT_LINK) |
-| **FIFA 2026 Player Clustering** | Sports | Feature Engineering, PCA, Unsupervised ML | [Repo](INSERT_LINK) |
+| **College Grads Job & Skills Insights** | Education / Career Analytics | Data Cleaning, EDA, Visualization, Logistic Regression | [Repo](INSERT_LINK) |
+| **Soccer Player Performance Improvement** | Sports Analytics | Data Cleaning, KPI Analysis, Clustering, Regression | [Repo](INSERT_LINK) |
 
 ---
 
