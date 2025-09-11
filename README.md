@@ -31,7 +31,7 @@
 | 📊 Project | 💡 Domain | 📘 Topics | 🔗 Repo |
 |-----------|-----------|----------|--------|
 | **College Grads Job & Skills Insights** | Education / Career Analytics | Data Cleaning, EDA, Visualization, Logistic Regression | [Repo](https://github.com/Adibkzi/College-Grads-Job-Insights/tree/main) |
-| **Soccer Player Performance Improvement** | Sports Analytics | Data Cleaning, KPI Analysis, Clustering, Regression | [Repo](INSERT_LINK) |
+| **Soccer Player Performance Improvement** | Sports Analytics | Data Cleaning, KPI Analysis, Clustering, Regression | [Repo](https://github.com/Adibkzi/FIFA-World-Cup-2026-Analysis) |
 
 ---
 
