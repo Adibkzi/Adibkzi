@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adib Kazi</h1>
-<h3 align="center">Future Data Scientist | SQL • Python • Power BI • Machine Learning • Analytics</h3>
+<h3 align="center">Future Data Scientist | SQL • Python • Machine Learning • Power BI • Analytics</h3>
 
 ---
 
@@ -39,8 +39,7 @@
 
 | 📌 Report | 🏢 Domain | 📍 Focus | 🔗 Link |
 |----------|-----------|---------|--------|
-| **HR Employee Insights** | HR Analytics | Attrition, Salary Trends, Demographics | [View Report](https://github.com/Adibkzi/POWERBI_PORTFOLIO/tree/main/HR%20Employee%20Attrition) |
-| **Sales Dashboard** | Retail | Product Performance, Region KPIs | [View Report](https://github.com/Adibkzi/POWERBI_PORTFOLIO/tree/main/Sales%20Dashboard) |
+| **AirSafety Dashboard** | Aviation Industry| Safety, Aircraft accidents, Fatalities | [View Report](https://app.powerbi.com/groups/me/reports/ee6c4bcd-a8fe-4ec6-a1ef-ee28c32f3827/ReportSectionf82ba180729142037990?experience=power-bi) |
 
 
 ---
