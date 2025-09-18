@@ -65,14 +65,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adibkzi&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📬 Let’s Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/adibkzi)
