@@ -33,7 +33,8 @@
 | **College Grads Job & Skills Insights** | Education / Career Analytics | Data Cleaning, EDA, Visualization, Logistic Regression | [Repo](https://github.com/Adibkzi/College-Grads-Job-Insights/tree/main) |
 | **Soccer Player Performance Improvement** | Sports Analytics | Data Cleaning, KPI Analysis, Clustering, Regression | [Repo](https://github.com/Adibkzi/FIFA-World-Cup-2026-Analysis) |
 |**Apple Health Daily Prediction & Recommendations** | Health & Wellness | Data Cleaning, EDA, Feature Engineering, Logistic Regression, Threshold Tuning, Recommendations | [Repo](https://github.com/Adibkzi/Apple-Health-Fitness-Repository) |
-
+|**Customer Churn Prediction** | Business / Telecom Analytics |Data Cleaning, EDA, Feature Engineering, Logistic Regression, Random Forest, Model Evaluation | [Repo](https://github.com/Adibkzi/Customer-Churn-Prediction) |
+|**Sports Analytics & Player Performance Insights** | Sports Data / Performance Analytics | Data Cleaning, EDA, Feature Engineering, Clustering, Visualization, Statistical Analysis | [Repo](https://github.com/Adibkzi/Machine-Learning-Projects/blob/main/Sports%20Analytics.ipynb) |
 
 ---
 
